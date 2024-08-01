@@ -1,0 +1,19 @@
+# Ignore class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VS Code settings
+.vscode/
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# Built resources
+bin/
+
